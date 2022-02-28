@@ -1,0 +1,4 @@
+rootProject.name = "My_Calculator"
+include ':app'
+include ':app:mylibrary'
+include ':sample'
